@@ -4,5 +4,4 @@ function esFechaValida(fecha) {
   // Si es así, retorna true, sino retorna false.
   // Tu código:
 }
-
 module.exports = esFechaValida;
